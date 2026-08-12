@@ -1,0 +1,71 @@
+incident_id,created_date,customer_id,meter_id,incident_type,priority,root_cause,status,resolved_date,owner_team
+I0001,2026-07-21,C014,M016,Outlier Consumption,Medium,Unexpected facility load,In Progress,,Data Quality
+I0002,2026-07-20,C006,M046,Missing Data,Medium,Source file incomplete,Open,,Customer Success
+I0003,2026-07-20,C014,M001,Source Connection Failure,Critical,Connector authentication error,Closed,2026-07-21,Data Quality
+I0004,2026-07-07,C012,M056,Outlier Consumption,Medium,Unexpected facility load,Closed,2026-07-08,Data Quality
+I0005,2026-07-15,C002,M013,Source Connection Failure,Critical,Connector authentication error,Closed,2026-07-16,Operations
+I0006,2026-07-26,C016,M012,Source Connection Failure,Critical,Connector authentication error,In Progress,,Data Quality
+I0007,2026-07-22,C007,M028,Missing Data,Medium,Source file incomplete,Closed,2026-07-22,Engineering
+I0008,2026-07-11,C002,M060,Delayed Delivery,High,Upstream feed delay,Closed,2026-07-12,Data Quality
+I0009,2026-07-06,C004,M005,Delayed Delivery,High,Upstream feed delay,Open,,Data Quality
+I0010,2026-07-24,C011,M027,Outlier Consumption,Medium,Unexpected facility load,Open,,Data Quality
+I0011,2026-07-24,C011,M015,Unit Mismatch,High,kWh/kWh-equivalent mapping issue,Closed,2026-07-25,Operations
+I0012,2026-07-08,C008,M005,Delayed Delivery,High,Upstream feed delay,Closed,2026-07-10,Customer Success
+I0013,2026-07-19,C005,M014,Missing Data,Medium,Source file incomplete,In Progress,,Customer Success
+I0014,2026-07-06,C007,M041,Unit Mismatch,High,kWh/kWh-equivalent mapping issue,Closed,2026-07-07,Engineering
+I0015,2026-07-09,C019,M004,Unit Mismatch,High,kWh/kWh-equivalent mapping issue,Closed,2026-07-09,Engineering
+I0016,2026-07-05,C014,M011,Delayed Delivery,High,Upstream feed delay,In Progress,,Engineering
+I0017,2026-07-08,C020,M058,Outlier Consumption,Medium,Unexpected facility load,Closed,2026-07-10,Data Quality
+I0018,2026-07-19,C017,M032,Duplicate Record,Low,Duplicate source event,Closed,2026-07-20,Data Quality
+I0019,2026-07-19,C014,M048,Delayed Delivery,High,Upstream feed delay,Closed,2026-07-19,Data Quality
+I0020,2026-07-08,C008,M058,Delayed Delivery,High,Upstream feed delay,Open,,Data Quality
+I0021,2026-07-30,C002,M003,Missing Data,Medium,Source file incomplete,In Progress,,Customer Success
+I0022,2026-07-24,C017,M026,Missing Data,Medium,Source file incomplete,In Progress,,Customer Success
+I0023,2026-07-26,C016,M016,Missing Data,Medium,Source file incomplete,In Progress,,Operations
+I0024,2026-07-18,C007,M009,Source Connection Failure,Critical,Connector authentication error,In Progress,,Engineering
+I0025,2026-07-10,C016,M043,Source Connection Failure,Critical,Connector authentication error,Closed,2026-07-10,Engineering
+I0026,2026-07-06,C019,M002,Delayed Delivery,High,Upstream feed delay,Open,,Customer Success
+I0027,2026-07-15,C006,M051,Source Connection Failure,Critical,Connector authentication error,In Progress,,Engineering
+I0028,2026-07-21,C003,M025,Source Connection Failure,Critical,Connector authentication error,Closed,2026-07-23,Engineering
+I0029,2026-07-17,C009,M045,Unit Mismatch,High,kWh/kWh-equivalent mapping issue,In Progress,,Data Quality
+I0030,2026-07-26,C011,M048,Missing Data,Medium,Source file incomplete,Open,,Operations
+I0031,2026-07-17,C013,M024,Unit Mismatch,High,kWh/kWh-equivalent mapping issue,Closed,2026-07-18,Customer Success
+I0032,2026-07-20,C018,M046,Unit Mismatch,High,kWh/kWh-equivalent mapping issue,Closed,2026-07-20,Operations
+I0033,2026-07-18,C008,M035,Duplicate Record,Low,Duplicate source event,Closed,2026-07-19,Operations
+I0034,2026-07-21,C007,M049,Source Connection Failure,Critical,Connector authentication error,Open,,Data Quality
+I0035,2026-07-11,C014,M018,Unit Mismatch,High,kWh/kWh-equivalent mapping issue,Open,,Operations
+I0036,2026-07-03,C016,M033,Unit Mismatch,High,kWh/kWh-equivalent mapping issue,In Progress,,Operations
+I0037,2026-07-16,C010,M029,Outlier Consumption,Medium,Unexpected facility load,Open,,Engineering
+I0038,2026-07-26,C015,M006,Source Connection Failure,Critical,Connector authentication error,Closed,2026-07-27,Operations
+I0039,2026-07-13,C006,M018,Unit Mismatch,High,kWh/kWh-equivalent mapping issue,Closed,2026-07-13,Operations
+I0040,2026-07-23,C017,M041,Delayed Delivery,High,Upstream feed delay,Closed,2026-07-23,Operations
+I0041,2026-07-10,C005,M031,Source Connection Failure,Critical,Connector authentication error,Open,,Engineering
+I0042,2026-07-14,C007,M005,Source Connection Failure,Critical,Connector authentication error,Closed,2026-07-15,Operations
+I0043,2026-07-28,C019,M022,Outlier Consumption,Medium,Unexpected facility load,Closed,2026-07-29,Engineering
+I0044,2026-07-16,C018,M029,Source Connection Failure,Critical,Connector authentication error,Open,,Customer Success
+I0045,2026-07-10,C009,M015,Duplicate Record,Low,Duplicate source event,Closed,2026-07-11,Customer Success
+I0046,2026-07-12,C010,M030,Missing Data,Medium,Source file incomplete,Closed,2026-07-13,Data Quality
+I0047,2026-07-20,C010,M012,Source Connection Failure,Critical,Connector authentication error,Open,,Data Quality
+I0048,2026-07-27,C008,M008,Source Connection Failure,Critical,Connector authentication error,Closed,2026-07-28,Operations
+I0049,2026-07-11,C009,M024,Duplicate Record,Low,Duplicate source event,In Progress,,Data Quality
+I0050,2026-07-07,C011,M023,Source Connection Failure,Critical,Connector authentication error,Closed,2026-07-09,Data Quality
+I0051,2026-07-12,C010,M008,Outlier Consumption,Medium,Unexpected facility load,Closed,2026-07-14,Operations
+I0052,2026-07-13,C011,M010,Duplicate Record,Low,Duplicate source event,In Progress,,Operations
+I0053,2026-07-24,C010,M031,Outlier Consumption,Medium,Unexpected facility load,Closed,2026-07-26,Engineering
+I0054,2026-07-31,C015,M022,Source Connection Failure,Critical,Connector authentication error,Closed,2026-08-02,Operations
+I0055,2026-07-24,C018,M008,Missing Data,Medium,Source file incomplete,Closed,2026-07-26,Engineering
+I0056,2026-07-01,C012,M006,Outlier Consumption,Medium,Unexpected facility load,Closed,2026-07-02,Engineering
+I0057,2026-07-02,C017,M015,Source Connection Failure,Critical,Connector authentication error,Closed,2026-07-04,Engineering
+I0058,2026-07-07,C015,M044,Missing Data,Medium,Source file incomplete,Open,,Operations
+I0059,2026-07-17,C011,M039,Duplicate Record,Low,Duplicate source event,In Progress,,Operations
+I0060,2026-07-30,C005,M046,Unit Mismatch,High,kWh/kWh-equivalent mapping issue,In Progress,,Customer Success
+I0061,2026-07-12,C012,M023,Unit Mismatch,High,kWh/kWh-equivalent mapping issue,Closed,2026-07-13,Engineering
+I0062,2026-07-15,C015,M048,Missing Data,Medium,Source file incomplete,Closed,2026-07-17,Customer Success
+I0063,2026-07-26,C014,M047,Unit Mismatch,High,kWh/kWh-equivalent mapping issue,Closed,2026-07-28,Customer Success
+I0064,2026-07-05,C007,M020,Outlier Consumption,Medium,Unexpected facility load,Closed,2026-07-06,Customer Success
+I0065,2026-07-28,C013,M006,Unit Mismatch,High,kWh/kWh-equivalent mapping issue,Closed,2026-07-30,Operations
+I0066,2026-07-14,C006,M036,Unit Mismatch,High,kWh/kWh-equivalent mapping issue,In Progress,,Customer Success
+I0067,2026-07-23,C013,M019,Duplicate Record,Low,Duplicate source event,Closed,2026-07-24,Customer Success
+I0068,2026-07-02,C018,M048,Outlier Consumption,Medium,Unexpected facility load,Closed,2026-07-03,Customer Success
+I0069,2026-07-08,C010,M041,Missing Data,Medium,Source file incomplete,Closed,2026-07-08,Customer Success
+I0070,2026-07-04,C006,M032,Source Connection Failure,Critical,Connector authentication error,Closed,2026-07-06,Data Quality

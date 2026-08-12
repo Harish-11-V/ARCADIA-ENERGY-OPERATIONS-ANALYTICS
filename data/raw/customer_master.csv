@@ -1,0 +1,21 @@
+customer_id,customer_name,country,industry
+C001,NorthStar Retail,US,Retail
+C002,GreenGrid Hotels,US,Hospitality
+C003,Atlas Manufacturing,DE,Manufacturing
+C004,BluePeak Offices,UK,Commercial Real Estate
+C005,Nova Healthcare,US,Healthcare
+C006,Vertex Logistics,CA,Logistics
+C007,Sunline Foods,AU,Food & Beverage
+C008,MetroBank Group,SG,Banking
+C009,Orion Telecom,IN,Telecommunications
+C010,Evergreen Pharma,NL,Pharmaceuticals
+C011,Cedar Universities,US,Education
+C012,SilverArc Data Centers,SE,Data Centers
+C013,Pioneer Automotive,MX,Automotive
+C014,Harbor Ports,NL,Logistics
+C015,BrightMart,UK,Retail
+C016,Lakeview Properties,US,Real Estate
+C017,Terra Chemicals,DE,Chemicals
+C018,Cloud9 Media,CA,Media
+C019,Apex Aerospace,US,Aerospace
+C020,Riverstone Finance,SG,Finance
