@@ -1,0 +1,61 @@
+meter_id,customer_id,country,facility_type,facility
+M001,C001,US,Retail,Facility-01
+M002,C002,US,Hospitality,Facility-02
+M003,C003,DE,Manufacturing,Facility-03
+M004,C004,UK,Commercial Real Estate,Facility-04
+M005,C005,US,Healthcare,Facility-05
+M006,C006,CA,Logistics,Facility-06
+M007,C007,AU,Food & Beverage,Facility-07
+M008,C008,SG,Banking,Facility-08
+M009,C009,IN,Telecommunications,Facility-09
+M010,C010,NL,Pharmaceuticals,Facility-10
+M011,C011,US,Education,Facility-11
+M012,C012,SE,Data Centers,Facility-12
+M013,C013,MX,Automotive,Facility-13
+M014,C014,NL,Logistics,Facility-14
+M015,C015,UK,Retail,Facility-15
+M016,C016,US,Real Estate,Facility-16
+M017,C017,DE,Chemicals,Facility-17
+M018,C018,CA,Media,Facility-18
+M019,C019,US,Aerospace,Facility-19
+M020,C020,SG,Finance,Facility-20
+M021,C001,US,Retail,Facility-01
+M022,C002,US,Hospitality,Facility-02
+M023,C003,DE,Manufacturing,Facility-03
+M024,C004,UK,Commercial Real Estate,Facility-04
+M025,C005,US,Healthcare,Facility-05
+M026,C006,CA,Logistics,Facility-06
+M027,C007,AU,Food & Beverage,Facility-07
+M028,C008,SG,Banking,Facility-08
+M029,C009,IN,Telecommunications,Facility-09
+M030,C010,NL,Pharmaceuticals,Facility-10
+M031,C011,US,Education,Facility-11
+M032,C012,SE,Data Centers,Facility-12
+M033,C013,MX,Automotive,Facility-13
+M034,C014,NL,Logistics,Facility-14
+M035,C015,UK,Retail,Facility-15
+M036,C016,US,Real Estate,Facility-16
+M037,C017,DE,Chemicals,Facility-17
+M038,C018,CA,Media,Facility-18
+M039,C019,US,Aerospace,Facility-19
+M040,C020,SG,Finance,Facility-20
+M041,C001,US,Retail,Facility-01
+M042,C002,US,Hospitality,Facility-02
+M043,C003,DE,Manufacturing,Facility-03
+M044,C004,UK,Commercial Real Estate,Facility-04
+M045,C005,US,Healthcare,Facility-05
+M046,C006,CA,Logistics,Facility-06
+M047,C007,AU,Food & Beverage,Facility-07
+M048,C008,SG,Banking,Facility-08
+M049,C009,IN,Telecommunications,Facility-09
+M050,C010,NL,Pharmaceuticals,Facility-10
+M051,C011,US,Education,Facility-11
+M052,C012,SE,Data Centers,Facility-12
+M053,C013,MX,Automotive,Facility-13
+M054,C014,NL,Logistics,Facility-14
+M055,C015,UK,Retail,Facility-15
+M056,C016,US,Real Estate,Facility-16
+M057,C017,DE,Chemicals,Facility-17
+M058,C018,CA,Media,Facility-18
+M059,C019,US,Aerospace,Facility-19
+M060,C020,SG,Finance,Facility-20
