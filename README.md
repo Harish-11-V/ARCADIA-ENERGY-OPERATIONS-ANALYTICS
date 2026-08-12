@@ -107,8 +107,7 @@ python src/kpis.py
 pytest -q
 ```
 
-## 🎤 Interview Pitch
-> I built this as an Operations Data Analyst case study rather than a generic dashboard. The project focuses on the operational lifecycle of energy data: understanding requirements, validating incoming records, monitoring quality, investigating incidents, reconciling expected versus received bills, and reporting KPIs. I used Excel for business-facing reporting, SQL for scalable analysis, and Python for repeatable validation.
-
 ## ⚠️ Disclaimer
 All data is synthetic. This repository is an independent portfolio project and is not an Arcadia internal project.
+
+---
