@@ -1,6 +1,6 @@
 Yes — use **one clean `README.md`**, with no repeated sections and no placeholder text except the one Vercel URL you will replace after deployment.
 
-Replace your current `README.md` completely with this:
+Replace your current `README.md` completely with this: 
 
 ````markdown
 # ⚡ Energy Data Operations Analytics
