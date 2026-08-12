@@ -2,7 +2,7 @@ Yes — use **one clean `README.md`**, with no repeated sections and no placehol
 
 Replace your current `README.md` completely with this: 
 
-````markdown
+
 # ⚡ Energy Data Operations Analytics
 
 > **Independent Data Analyst – Operations case study focused on energy data quality, monitoring, troubleshooting, reconciliation, and reporting.**
